@@ -1,2 +1,2 @@
 # PrimerMillon
-Ganar nuestro primer millonsito.
+Ganar nuestro primer milloncito.
